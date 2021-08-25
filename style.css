@@ -1,0 +1,33 @@
+
+body{
+    background-image: url("images/cloud.webp")
+    }
+
+.gold{
+
+    color: gold;
+    
+    }
+
+.header1{
+        font-family: Bold Arial;
+            font-size: 30px; 
+            color:black;
+        }
+
+.header2{
+        text-align: center;
+        font-family: Bold Arial;
+        font-size: 50px;
+        color: black;
+
+
+}
+.para{
+    align-self: center;
+    background-image: url("images/blackbg.jpeg");
+    font-size: 20px; 
+    color:white;
+    font-family: Arial
+    }
+
